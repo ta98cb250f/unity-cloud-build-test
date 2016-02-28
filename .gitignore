@@ -1,7 +1,9 @@
-Program/Library/shadercompiler-UnityShaderCompiler.exe0.log
-Program/Temp/UnityLockfile
-Program/Library/shadercompiler-UnityShaderCompiler.exe0.log
-Program/Library/shadercompiler-UnityShaderCompiler.exe0.log
-Program/Temp/__Backupscenes/0.backup
 *.log
 *.log
+*.csproj
+Program/Library/
+Program/obj/
+Program/Temp/
+Program/Assembly-CSharp.csproj
+Program/Program.sln
+Program/Program.userprefs
