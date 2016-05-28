@@ -1,0 +1,11 @@
+*.log
+*.log
+*.csproj
+Program/Library/
+Program/obj/
+Program/Temp/
+Program/Assembly-CSharp.csproj
+Program/Program.sln
+Program/Program.userprefs
+Program/Assembly-CSharp.csproj
+Program/Assembly-CSharp.csproj
